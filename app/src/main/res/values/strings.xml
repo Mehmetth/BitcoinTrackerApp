@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BitcoinTickerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="list">Cripto List</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="coin_search">Enter coin name</string>
+
+    <string name="more">More</string>
+    <string name="highest_day">24h Highest</string>
+    <string name="lowest_day">24h Lowest</string>
+    <string name="change_day">24h Change</string>
+
+    <string name="coin_detail">Coin Detail</string>
+    <string name="current_price">Current Price : </string>
+    <string name="highest_24h">Highest 24h : </string>
+    <string name="lowest_24h">Lowest 24h : </string>
+    <string name="hashing_algorithm">Hashing Algorithm</string>
+    <string name="refresh_interval">Refresh Interval(minute)</string>
+    <string name="description">Description</string>
+
+    <string name="no_favorite">No favorite coin\\coins.</string>
+
+    <string name="welcome_singin">Welcome, \nSing In to Contiune</string>
+    <string name="type_your_email">Type your email</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">You Have Not Registered Yet\nPlease Register To Continue!</string>
+
+    <string name="welcome_singup">Welcome, \nSing Up to Contiune</string>
+    <string name="retyp_your_password">Retype Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered">Already Registered\nPlease Login From the Login Page</string>
+
+    <string name="no_value">No Value</string>
+
+    <string name="empty_fields">Empty Fields Are not Allowed!!</string>
+
+    <string name="password_not_matching">Password is not matching!!</string>
+
+    <string name="saved_successfully">Saved Successfully.</string>
+    <string name="unsuccessfully_saved">Unsuccessfully Saved.</string>
+    <string name="error">Error : </string>
+    <string name="successfully_deleted">Successfully Deleted!</string>
+
+</resources>

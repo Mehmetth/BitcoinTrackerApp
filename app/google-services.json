@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434578620594",
+    "project_id": "bitcointracker-865de",
+    "storage_bucket": "bitcointracker-865de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434578620594:android:1865011b8e9151d67a09ab",
+        "android_client_info": {
+          "package_name": "com.mehmetth.bitcointickerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434578620594-ivhmmbqap2kh8cr44pbkvi79r4b9fs1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CXXX74FhU3lYHh8s5YI_XXp6dPiSDdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434578620594-ivhmmbqap2kh8cr44pbkvi79r4b9fs1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
